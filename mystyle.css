@@ -1,16 +1,22 @@
-Body {background-color: rgb(175, 172, 168);
-font-family: Verdana, Geneva, Tahoma, sans-serif;}
-
-header {background-color: rgb(116, 116, 108);}
-
-h1{color: rgb(157, 158, 157);}
-
-nav > ul {line-height: 2.5em;
-list-style-type: none;
-padding-left: 5px;}
-
-section {background-color: rgb(136, 131, 131);
-width: 90%;
-font-size: 1.6em;}
-
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+    
 footer {background-color: rgb(83, 81, 77);}
+    
+   
+   
+*body{font-size: 22px;
+
+}
+
+p {color: black
+}
+
+.grey { color: grey
+}
+
+h1, h2 {font-size: 50px;
+}
