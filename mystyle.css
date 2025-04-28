@@ -32,3 +32,10 @@ ol{
 img{
     padding: 20px;
 }
+.container {
+    margin: 0 auto;
+}
+.toast-body{
+     color:rgb(233, 145, 14);
+font-size: 20px;
+}
