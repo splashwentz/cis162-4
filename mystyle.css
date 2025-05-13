@@ -7,7 +7,7 @@ footer {background-color: rgb(63, 60, 58);}
  } 
    
 header{
-    
+    font-family: "Amatic SC", sans-serif;
     background-image: url("myimage_2.jpg") 
 }
 header{
@@ -40,12 +40,7 @@ font-size: 20px;
   font-weight: 700;
   font-style: normal;
 }
-p{
-  font-family: "Amatic SC";
-}
-ol{
-  font-family: "Amatic SC";
-}
+
 
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
