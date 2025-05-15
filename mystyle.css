@@ -7,7 +7,7 @@ footer {background-color: rgb(63, 60, 58);}
  } 
    
 header{
-    font-family: "Amatic SC", sans-serif;
+    
     background-image: url("myimage_2.jpg") 
 }
 header{
@@ -40,10 +40,15 @@ font-size: 20px;
   font-weight: 700;
   font-style: normal;
 }
-
+ol{
+  font-family: "Amatic SC", sans-serif;
+}
+p{
+  font-family: "Amatic SC", sans-serif;
+}
 
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+body {font-family: "Amatic SC", sans-serif; margin:0}
 .mySlides {display: none}
 img {vertical-align: middle;}
 
