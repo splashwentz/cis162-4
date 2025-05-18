@@ -47,6 +47,7 @@ p{
   font-family: "Amatic SC", sans-serif;
 }
 
+
 * {box-sizing: border-box}
 body {font-family: "Amatic SC", sans-serif; margin:0}
 .mySlides {display: none}
@@ -214,4 +215,9 @@ img {vertical-align: middle;}
   .step.finish {
     background-color: #04AA6D;
   }
+
+#resume{ 
+  font-family: 'Times New Roman', Times, serif;
+}
+
 
